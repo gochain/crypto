@@ -3,10 +3,9 @@ module github.com/gochain/crypto
 go 1.18
 
 require (
-	github.com/btcsuite/btcd v0.21.0-beta
 	github.com/gochain/common v0.0.0-20220705223450-a6304ac0a958
 	github.com/gochain/rlp v0.0.0-20220705223024-f471f417996a
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.4
 	golang.org/x/crypto v0.31.0
 	golang.org/x/sys v0.28.0
 )
